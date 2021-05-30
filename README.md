@@ -1,5 +1,6 @@
 # hand_gesture_control
 Using mediapipe python library to detect hand landmarks and using them to control my mouse.
+Inspired by Murtaza.
 
 INSTALLATION
 1. pip install mediapipe, numpy, pyautogui
